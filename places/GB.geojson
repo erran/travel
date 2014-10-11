@@ -60,6 +60,18 @@
         "marker-symbol": "park",
         "name": "The Kelpies (at The Helix)"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.834548, 55.999053]
+      },
+      "properties": {
+        "address": "Lime Rd, Tamfourhill, Falkirk FK1 4RS, United Kingdom",
+        "marker-symbol": "dam",
+        "name": "The Falkirk Wheel"
+      }
     }
   ]
 }
