@@ -9,6 +9,7 @@
       },
       "properties": {
         "address": "100 Pointhouse Place, Glasgow, G3 8RS",
+        "marker-symbol": "museum",
         "name": "Riverside Museum"
       }
     },
@@ -20,6 +21,7 @@
       },
       "properties": {
         "address": "1 Olympic Way, Queen's Road, Titanic Quarter, Belfast, N. Ireland, BT3 9EP",
+        "marker-symbol": "museum",
         "name": "Titanic Belfast"
       }
     }
