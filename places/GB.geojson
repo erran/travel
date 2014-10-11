@@ -17,6 +17,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-3.921679, 56.139568]
+      },
+      "properties": {
+        "address": "Abbey Craig, Hillfoots Rd, Stirling FK9 5LF, United Kingdom",
+        "marker-symbol": "monument",
+        "name": "Wallace Monument"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-5.8706994, 54.6147041]
       },
       "properties": {
@@ -70,7 +82,7 @@
       "properties": {
         "address": "Lime Rd, Tamfourhill, Falkirk FK1 4RS, United Kingdom",
         "marker-symbol": "dam",
-        "name": "The Falkirk Wheel"
+        "name": "Falkirk Wheel"
       }
     }
   ]
