@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.306338, 55.865141]
+      },
+      "properties": {
+        "address": "100 Pointhouse Place, Glasgow, G3 8RS",
+        "name": "Riverside Museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.176275, 55.950519]
+      },
+      "properties": {
+        "address": "Holyrood Road, Edinburgh, City Of Edinburgh, EH8 8AS",
+        "name": "Our Dynamic Earth"
+      }
+    }
+  ]
+}
