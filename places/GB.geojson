@@ -89,6 +89,30 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-2.2370501, 53.4650993]
+      },
+      "properties": {
+        "address": "Manchester, England",
+        "marker-symbol": "city",
+        "name": "Manchester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.0445299, 53.8112984]
+      },
+      "properties": {
+        "address": "Blackpool, England",
+        "marker-symbol": "city",
+        "name": "Blackpool"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-3.753889, 56.005466]
       },
       "properties": {
