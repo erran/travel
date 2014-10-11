@@ -5,12 +5,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-4.306338, 55.865141]
+        "coordinates": [-5.8706994, 54.6147041]
       },
       "properties": {
-        "address": "100 Pointhouse Place, Glasgow, G3 8RS",
-        "marker-symbol": "museum",
-        "name": "Riverside Museum"
+        "address": "George Best Belfast City Airport Belfast BT3 9JH Northern Ireland",
+        "marker-symbol": "airport",
+        "name": "George Best Belfast City Airport (BHD)"
       }
     },
     {
@@ -23,6 +23,18 @@
         "address": "1 Olympic Way, Queen's Road, Titanic Quarter, Belfast, N. Ireland, BT3 9EP",
         "marker-symbol": "museum",
         "name": "Titanic Belfast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.306338, 55.865141]
+      },
+      "properties": {
+        "address": "100 Pointhouse Place, Glasgow, G3 8RS",
+        "marker-symbol": "museum",
+        "name": "Riverside Museum"
       }
     }
   ]
