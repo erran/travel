@@ -5,6 +5,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-0.083333, 51.5]
+      },
+      "properties": {
+        "address": "Greater London TW6, United Kingdom",
+        "marker-symbol": "airport",
+        "name": "London Heathrow Airport (LHR)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-3.3631842, 55.9483871]
       },
       "properties": {
