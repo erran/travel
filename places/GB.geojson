@@ -41,6 +41,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-2.5145488, 57.0302315]
+      },
+      "properties": {
+        "address": "Bridge of Feugh, Banchory, Aberdeen AB31 6NL, United Kingdom",
+        "marker-symbol": "water",
+        "name": "Falls of Feugh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-5.8706994, 54.6147041]
       },
       "properties": {
