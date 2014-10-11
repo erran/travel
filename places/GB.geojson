@@ -29,6 +29,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-2.077949, 57.150588]
+      },
+      "properties": {
+        "address": "Beach Esplanade, Sea Beach, Aberdeen AB24 5NS, United Kingdom",
+        "marker-symbol": "swimming",
+        "name": "Aberdeen Beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-5.8706994, 54.6147041]
       },
       "properties": {
