@@ -19,17 +19,6 @@
         "coordinates": [-3.176275, 55.950519]
       },
       "properties": {
-        "address": "Holyrood Road, Edinburgh, City Of Edinburgh, EH8 8AS",
-        "name": "Our Dynamic Earth"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-5.909913, 54.608082]
-      },
-      "properties": {
         "address": "1 Olympic Way, Queen's Road, Titanic Quarter, Belfast, N. Ireland, BT3 9EP",
         "name": "Titanic Belfast"
       }
