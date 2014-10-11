@@ -5,6 +5,18 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-3.3631842, 55.9483871]
+      },
+      "properties": {
+        "address": "Edinburgh EH12 9DN, United Kingdom",
+        "marker-symbol": "airport",
+        "name": "Edinburgh Airport (EDI)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-5.8706994, 54.6147041]
       },
       "properties": {
